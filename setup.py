@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
   name = 'deprem',
-  packages = ['/Users/Mehmet/Desktop/deprem'],
-  version = '0.1',
+  packages = ['deprem'],
+  version = '0.2',
   license='MIT',
   description = 'pydeprem lets you programmatically access Kandilli Earthquake Observatory data',
   author = 'Mehmet Altuntaş',
