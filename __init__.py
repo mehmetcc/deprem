@@ -1,1 +1,1 @@
-from pydeprem.api import Kandilli
+from deprem.api import Kandilli
