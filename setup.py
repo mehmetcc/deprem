@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'pydeprem',
-  packages = ['py-deprem'],
+  name = 'deprem',
+  packages = ['deprem'],
   version = '0.1',
   license='MIT',
   description = 'pydeprem lets you programmatically access Kandilli Earthquake Observatory data',
   author = 'Mehmet Altuntaş',
   author_email = 'mehmetccm@gmail.com',
   url = 'https://github.com/mehmetcc/pydeprem',
-  download_url = 'https://github.com/mehmetcc/py-deprem/archive/v_01.tar.gz',
+  download_url = 'https://github.com/mehmetcc/deprem/archive/v_01.tar.gz',
   keywords = ['turkish', 'earthquake'],
   install_requires=[
           'lxml',
