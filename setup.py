@@ -8,7 +8,7 @@ setup(
   author = 'Mehmet Altuntaş',
   author_email = 'mehmetccm@gmail.com',
   url = 'https://github.com/mehmetcc/pydeprem',
-  download_url = 'https://github.com/mehmetcc/deprem/archive/v_01.tar.gz',
+  download_url = 'https://github.com/mehmetcc/deprem/archive/v_02.tar.gz',
   keywords = ['turkish', 'earthquake'],
   install_requires=[
           'lxml',
